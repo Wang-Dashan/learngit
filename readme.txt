@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of line.
 Creating a new branch is quick and simple.
 vim
+BUG
+
